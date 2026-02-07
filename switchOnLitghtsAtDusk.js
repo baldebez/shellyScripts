@@ -1,3 +1,4 @@
+/* global Shelly, Timer, print */
 /// <reference path="../../shelly-script.d.ts" />
 
 /**
